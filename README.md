@@ -22,11 +22,11 @@ The program adheres to strict requirements for input formats and Python version 
 
 ## How to Run
 - **Task 1**:
-- python pathfinding_task1.py <start_row>,<start_col> <hq_row>,<hq_col> <terrain_file> <difficulty_threshold>
-- python pathfinding_task1.py 3,2 0,3 resources/terrain01.txt 50
+  - python pathfinding_task1.py <start_row>,<start_col> <hq_row>,<hq_col> <terrain_file> <difficulty_threshold>
+  - python pathfinding_task1.py 3,2 0,3 resources/terrain01.txt 50
 
 - **Task 2**:
-- python safe_pathfinding_task2.py <start_row>,<start_col> <hq_row>,<hq_col> <terrain_file> <difficulty_threshold> <enemy_file> <success_threshold>
-- python safe_pathfinding_task2.py 3,2 0,3 resources/terrain01.txt 50 resources/enemy01.txt 1.0
+  - python safe_pathfinding_task2.py <start_row>,<start_col> <hq_row>,<hq_col> <terrain_file> <difficulty_threshold> <enemy_file> <success_threshold>
+  - python safe_pathfinding_task2.py 3,2 0,3 resources/terrain01.txt 50 resources/enemy01.txt 1.0
 
 
